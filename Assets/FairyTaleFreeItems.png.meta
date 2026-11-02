@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 2efc79872eecff342ac4fb82d24d970b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6509821206935164744
+    second: FairyTaleFreeItems_0
+  - first:
+      213: -8890505948173534013
+    second: FairyTaleFreeItems_1
+  - first:
+      213: -3178042147627543469
+    second: FairyTaleFreeItems_2
+  - first:
+      213: -8392019833063868019
+    second: FairyTaleFreeItems_3
+  - first:
+      213: 8957377244930936053
+    second: FairyTaleFreeItems_4
+  - first:
+      213: -8969249944488304101
+    second: FairyTaleFreeItems_5
+  - first:
+      213: -5035774527889224748
+    second: FairyTaleFreeItems_6
+  - first:
+      213: 8024248092374595920
+    second: FairyTaleFreeItems_7
+  - first:
+      213: 7226605953608596750
+    second: FairyTaleFreeItems_8
+  - first:
+      213: -2425772158863955427
+    second: FairyTaleFreeItems_9
+  - first:
+      213: -6138269353308786232
+    second: FairyTaleFreeItems_10
+  - first:
+      213: -2682690796922548615
+    second: FairyTaleFreeItems_11
+  - first:
+      213: -1948582469166262754
+    second: FairyTaleFreeItems_12
+  - first:
+      213: 7542060518241792805
+    second: FairyTaleFreeItems_13
+  - first:
+      213: -2153837550847130692
+    second: FairyTaleFreeItems_14
+  - first:
+      213: -6582896424237604419
+    second: FairyTaleFreeItems_15
+  - first:
+      213: 7689460453475594594
+    second: FairyTaleFreeItems_16
+  - first:
+      213: -3218242555170041569
+    second: FairyTaleFreeItems_17
+  - first:
+      213: 171544895821983415
+    second: FairyTaleFreeItems_18
+  - first:
+      213: -3823243828872091223
+    second: FairyTaleFreeItems_19
+  - first:
+      213: -1242606640436838389
+    second: FairyTaleFreeItems_20
+  - first:
+      213: -806059121516101573
+    second: FairyTaleFreeItems_21
+  - first:
+      213: -1829356704700600453
+    second: FairyTaleFreeItems_22
+  - first:
+      213: -5462317632803148054
+    second: FairyTaleFreeItems_23
+  - first:
+      213: -1188616715328378857
+    second: FairyTaleFreeItems_24
+  - first:
+      213: -8696690725655118772
+    second: FairyTaleFreeItems_25
+  - first:
+      213: -3870474231412051447
+    second: FairyTaleFreeItems_26
+  - first:
+      213: -7780249062632796098
+    second: FairyTaleFreeItems_27
+  - first:
+      213: 7169576928873700294
+    second: FairyTaleFreeItems_28
+  - first:
+      213: 1168539418345244910
+    second: FairyTaleFreeItems_29
+  - first:
+      213: -945603987382750103
+    second: FairyTaleFreeItems_30
+  - first:
+      213: -4705787988123068297
+    second: FairyTaleFreeItems_31
+  - first:
+      213: -6123472783130725625
+    second: FairyTaleFreeItems_32
+  - first:
+      213: 6135419429616214634
+    second: FairyTaleFreeItems_33
+  - first:
+      213: -8115860237834713414
+    second: FairyTaleFreeItems_34
+  - first:
+      213: -8604440665681601242
+    second: FairyTaleFreeItems_35
+  - first:
+      213: -1836509061604468898
+    second: FairyTaleFreeItems_36
+  - first:
+      213: 4021128187046036915
+    second: FairyTaleFreeItems_37
+  - first:
+      213: -4181174088518215153
+    second: FairyTaleFreeItems_38
+  - first:
+      213: 6141943124893272034
+    second: FairyTaleFreeItems_39
+  - first:
+      213: -3726089140195083105
+    second: FairyTaleFreeItems_40
+  - first:
+      213: -5194776265084016708
+    second: FairyTaleFreeItems_41
+  - first:
+      213: -6129068618529544349
+    second: FairyTaleFreeItems_42
+  - first:
+      213: 5112896625104795307
+    second: FairyTaleFreeItems_43
+  - first:
+      213: 5035443805856279773
+    second: FairyTaleFreeItems_44
+  - first:
+      213: 8069683728543820915
+    second: FairyTaleFreeItems_45
+  - first:
+      213: 1973046964692546472
+    second: FairyTaleFreeItems_46
+  - first:
+      213: -4132868887615051488
+    second: FairyTaleFreeItems_47
+  - first:
+      213: 4649854453527149489
+    second: FairyTaleFreeItems_48
+  - first:
+      213: -6729859826648833788
+    second: FairyTaleFreeItems_49
+  - first:
+      213: -3173122951102928386
+    second: FairyTaleFreeItems_50
+  - first:
+      213: 3860394437592188957
+    second: FairyTaleFreeItems_51
+  - first:
+      213: -5291242274086041143
+    second: FairyTaleFreeItems_52
+  - first:
+      213: -1718951957406913269
+    second: FairyTaleFreeItems_53
+  - first:
+      213: -1747175912861261208
+    second: FairyTaleFreeItems_54
+  - first:
+      213: -4111202419588575071
+    second: FairyTaleFreeItems_55
+  - first:
+      213: -6532960222027086776
+    second: FairyTaleFreeItems_56
+  - first:
+      213: -7089209722894518199
+    second: FairyTaleFreeItems_57
+  - first:
+      213: -5751224461776925488
+    second: FairyTaleFreeItems_58
+  - first:
+      213: 8382782161834735958
+    second: FairyTaleFreeItems_59
+  - first:
+      213: 155395314090591979
+    second: FairyTaleFreeItems_60
+  - first:
+      213: -6285620983758642456
+    second: FairyTaleFreeItems_61
+  - first:
+      213: -494243554215147623
+    second: FairyTaleFreeItems_62
+  - first:
+      213: 4722234472805593857
+    second: FairyTaleFreeItems_63
+  - first:
+      213: -5418332934849905228
+    second: FairyTaleFreeItems_64
+  - first:
+      213: -6245336591846599959
+    second: FairyTaleFreeItems_65
+  - first:
+      213: 3042261253003213490
+    second: FairyTaleFreeItems_66
+  - first:
+      213: 7373953343055739626
+    second: FairyTaleFreeItems_67
+  - first:
+      213: -1696568235505092050
+    second: FairyTaleFreeItems_68
+  - first:
+      213: -1377527088753373271
+    second: FairyTaleFreeItems_69
+  - first:
+      213: 3136003384071964632
+    second: FairyTaleFreeItems_70
+  - first:
+      213: 8063249008851184245
+    second: FairyTaleFreeItems_71
+  - first:
+      213: 5143705234663015693
+    second: FairyTaleFreeItems_72
+  - first:
+      213: 7354910359931888440
+    second: FairyTaleFreeItems_73
+  - first:
+      213: -6213669901433839947
+    second: FairyTaleFreeItems_74
+  - first:
+      213: 6558051785785848697
+    second: FairyTaleFreeItems_75
+  - first:
+      213: 4319605589731303321
+    second: FairyTaleFreeItems_76
+  - first:
+      213: 2063023052435052085
+    second: FairyTaleFreeItems_77
+  - first:
+      213: -6203135809133744979
+    second: FairyTaleFreeItems_78
+  - first:
+      213: 470942097500195357
+    second: FairyTaleFreeItems_79
+  - first:
+      213: 2567748359246105235
+    second: FairyTaleFreeItems_80
+  - first:
+      213: -5831496305752030744
+    second: FairyTaleFreeItems_81
+  - first:
+      213: 4375540714897008983
+    second: FairyTaleFreeItems_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b823515a1878a5a0800000000000000
+      internalID: -6509821206935164744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc7e9da1f39e9480800000000000000
+      internalID: -8890505948173534013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354d075318355e3d0800000000000000
+      internalID: -3178042147627543469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f136bc6e898b80800000000000000
+      internalID: -8392019833063868019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 210
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8643652ffe4c70800000000000000
+      internalID: 8957377244930936053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 228
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12251552b2d68380800000000000000
+      internalID: -8969249944488304101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 242
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc3306fb55d1ab0800000000000000
+      internalID: -5035774527889224748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 244
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f79f202bdb5f60800000000000000
+      internalID: 8024248092374595920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 244
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d309c93df0a4460800000000000000
+      internalID: 7226605953608596750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 227
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa1e4e21de55ed0800000000000000
+      internalID: -2425772158863955427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 228
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1fc5c8b8c70daa0800000000000000
+      internalID: -6138269353308786232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 229
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec8370fea25cad0800000000000000
+      internalID: -2682690796922548615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169acd719e35f4e0800000000000000
+      internalID: -1948582469166262754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 175
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fc40f418caa860800000000000000
+      internalID: 7542060518241792805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 159
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb30cd5b8280c12e0800000000000000
+      internalID: -2153837550847130692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 195
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e020749ad4a4a0800000000000000
+      internalID: -6582896424237604419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 204
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b3dbba8376ba60800000000000000
+      internalID: 7689460453475594594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115b0272718653d0800000000000000
+      internalID: -3218242555170041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 210
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be20828c23716200800000000000000
+      internalID: 171544895821983415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 205
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ef5a7efb11fac0800000000000000
+      internalID: -3823243828872091223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00883918df51cee0800000000000000
+      internalID: -1242606640436838389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c11aef7d40d4f0800000000000000
+      internalID: -806059121516101573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f67d8f4c1dc96e0800000000000000
+      internalID: -1829356704700600453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 203
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee6a66bd03f134b0800000000000000
+      internalID: -5462317632803148054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 167
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a2cc156f218fe0800000000000000
+      internalID: -1188616715328378857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c74efacd52f4780800000000000000
+      internalID: -8696690725655118772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902b1647130594ac0800000000000000
+      internalID: -3870474231412051447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 163
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d4b5f2b0070490800000000000000
+      internalID: -7780249062632796098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5a531b347f7360800000000000000
+      internalID: 7169576928873700294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 178
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88288e86c773010800000000000000
+      internalID: 1168539418345244910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 173
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964bbd9fe2a80e2f0800000000000000
+      internalID: -945603987382750103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 164
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778df93d1cea1beb0800000000000000
+      internalID: -4705787988123068297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 164
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70378b182fd050ba0800000000000000
+      internalID: -6123472783130725625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 171
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62ed42e673652550800000000000000
+      internalID: 6135419429616214634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 127
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab605250d1cae5f80800000000000000
+      internalID: -8115860237834713414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 135
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d5f178dc2e69880800000000000000
+      internalID: -8604440665681601242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57974c1db86386e0800000000000000
+      internalID: -1836509061604468898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5803108caedc730800000000000000
+      internalID: 4021128187046036915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0addcdb15c79f5c0800000000000000
+      internalID: -4181174088518215153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e78aed0bb09c3550800000000000000
+      internalID: 6141943124893272034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 147
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3b3d2ba54a4cc0800000000000000
+      internalID: -3726089140195083105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76900928278e7b0800000000000000
+      internalID: -5194776265084016708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676d8c809c21faa0800000000000000
+      internalID: -6129068618529544349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 146
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba63aa82468a4f640800000000000000
+      internalID: 5112896625104795307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 141
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc2186667d71e540800000000000000
+      internalID: 5035443805856279773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37caa9998964dff60800000000000000
+      internalID: 8069683728543820915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a379afb2cba16b10800000000000000
+      internalID: 1973046964692546472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029e072c4a915a6c0800000000000000
+      internalID: -4132868887615051488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbf0cf4df9978040800000000000000
+      internalID: 4649854453527149489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ac6cd42cba92a0800000000000000
+      internalID: -6729859826648833788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9eed6ec7dc6f3d0800000000000000
+      internalID: -3173122951102928386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_51
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 139
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d188399a940e29530800000000000000
+      internalID: 3860394437592188957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c942989f2bb196b0800000000000000
+      internalID: -5291242274086041143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d6cc85d4e0528e0800000000000000
+      internalID: -1718951957406913269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86229c1a3c8c0c7e0800000000000000
+      internalID: -1747175912861261208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 132
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a052b47e2312f6c0800000000000000
+      internalID: -4111202419588575071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844815a8a434655a0800000000000000
+      internalID: -6532960222027086776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94870a831511e9d90800000000000000
+      internalID: -7089209722894518199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 99
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dccf34c2db8f20b0800000000000000
+      internalID: -5751224461776925488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f3a956ff955470800000000000000
+      internalID: 8382782161834735958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 83
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be641200733182200800000000000000
+      internalID: 155395314090591979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 83
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e22356940df4c8a0800000000000000
+      internalID: -6285620983758642456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ca762b181429f0800000000000000
+      internalID: -494243554215147623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037ea9cb3fb88140800000000000000
+      internalID: 4722234472805593857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_64
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdb87f37e63ec4b0800000000000000
+      internalID: -5418332934849905228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e21c3c757b1459a0800000000000000
+      internalID: -6245336591846599959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf033bd78483a20800000000000000
+      internalID: 3042261253003213490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 66
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea34232f7b855660800000000000000
+      internalID: 7373953343055739626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 48
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af189bd249478e0800000000000000
+      internalID: -1696568235505092050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 52
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8066496a02ece0800000000000000
+      internalID: -1377527088753373271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7480a6672558b20800000000000000
+      internalID: 3136003384071964632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a681ca04a66ef60800000000000000
+      internalID: 8063249008851184245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05086d88ac126740800000000000000
+      internalID: 5143705234663015693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a49e1104e11660800000000000000
+      internalID: 7354910359931888440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedf75652c94c9a0800000000000000
+      internalID: -6213669901433839947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b1666a51e20b50800000000000000
+      internalID: 6558051785785848697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd9b9c56252fb30800000000000000
+      internalID: 4319605589731303321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53655db298451ac10800000000000000
+      internalID: 2063023052435052085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace313e8d80ae9a0800000000000000
+      internalID: -6203135809133744979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac64fa75f198600800000000000000
+      internalID: 470942097500195357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_80
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac479378972a320800000000000000
+      internalID: 2567748359246105235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c5aaa10d521fa0800000000000000
+      internalID: -5831496305752030744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyTaleFreeItems_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e1bbf81b09bc30800000000000000
+      internalID: 4375540714897008983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FairyTaleFreeItems_0: -6509821206935164744
+      FairyTaleFreeItems_1: -8890505948173534013
+      FairyTaleFreeItems_10: -6138269353308786232
+      FairyTaleFreeItems_11: -2682690796922548615
+      FairyTaleFreeItems_12: -1948582469166262754
+      FairyTaleFreeItems_13: 7542060518241792805
+      FairyTaleFreeItems_14: -2153837550847130692
+      FairyTaleFreeItems_15: -6582896424237604419
+      FairyTaleFreeItems_16: 7689460453475594594
+      FairyTaleFreeItems_17: -3218242555170041569
+      FairyTaleFreeItems_18: 171544895821983415
+      FairyTaleFreeItems_19: -3823243828872091223
+      FairyTaleFreeItems_2: -3178042147627543469
+      FairyTaleFreeItems_20: -1242606640436838389
+      FairyTaleFreeItems_21: -806059121516101573
+      FairyTaleFreeItems_22: -1829356704700600453
+      FairyTaleFreeItems_23: -5462317632803148054
+      FairyTaleFreeItems_24: -1188616715328378857
+      FairyTaleFreeItems_25: -8696690725655118772
+      FairyTaleFreeItems_26: -3870474231412051447
+      FairyTaleFreeItems_27: -7780249062632796098
+      FairyTaleFreeItems_28: 7169576928873700294
+      FairyTaleFreeItems_29: 1168539418345244910
+      FairyTaleFreeItems_3: -8392019833063868019
+      FairyTaleFreeItems_30: -945603987382750103
+      FairyTaleFreeItems_31: -4705787988123068297
+      FairyTaleFreeItems_32: -6123472783130725625
+      FairyTaleFreeItems_33: 6135419429616214634
+      FairyTaleFreeItems_34: -8115860237834713414
+      FairyTaleFreeItems_35: -8604440665681601242
+      FairyTaleFreeItems_36: -1836509061604468898
+      FairyTaleFreeItems_37: 4021128187046036915
+      FairyTaleFreeItems_38: -4181174088518215153
+      FairyTaleFreeItems_39: 6141943124893272034
+      FairyTaleFreeItems_4: 8957377244930936053
+      FairyTaleFreeItems_40: -3726089140195083105
+      FairyTaleFreeItems_41: -5194776265084016708
+      FairyTaleFreeItems_42: -6129068618529544349
+      FairyTaleFreeItems_43: 5112896625104795307
+      FairyTaleFreeItems_44: 5035443805856279773
+      FairyTaleFreeItems_45: 8069683728543820915
+      FairyTaleFreeItems_46: 1973046964692546472
+      FairyTaleFreeItems_47: -4132868887615051488
+      FairyTaleFreeItems_48: 4649854453527149489
+      FairyTaleFreeItems_49: -6729859826648833788
+      FairyTaleFreeItems_5: -8969249944488304101
+      FairyTaleFreeItems_50: -3173122951102928386
+      FairyTaleFreeItems_51: 3860394437592188957
+      FairyTaleFreeItems_52: -5291242274086041143
+      FairyTaleFreeItems_53: -1718951957406913269
+      FairyTaleFreeItems_54: -1747175912861261208
+      FairyTaleFreeItems_55: -4111202419588575071
+      FairyTaleFreeItems_56: -6532960222027086776
+      FairyTaleFreeItems_57: -7089209722894518199
+      FairyTaleFreeItems_58: -5751224461776925488
+      FairyTaleFreeItems_59: 8382782161834735958
+      FairyTaleFreeItems_6: -5035774527889224748
+      FairyTaleFreeItems_60: 155395314090591979
+      FairyTaleFreeItems_61: -6285620983758642456
+      FairyTaleFreeItems_62: -494243554215147623
+      FairyTaleFreeItems_63: 4722234472805593857
+      FairyTaleFreeItems_64: -5418332934849905228
+      FairyTaleFreeItems_65: -6245336591846599959
+      FairyTaleFreeItems_66: 3042261253003213490
+      FairyTaleFreeItems_67: 7373953343055739626
+      FairyTaleFreeItems_68: -1696568235505092050
+      FairyTaleFreeItems_69: -1377527088753373271
+      FairyTaleFreeItems_7: 8024248092374595920
+      FairyTaleFreeItems_70: 3136003384071964632
+      FairyTaleFreeItems_71: 8063249008851184245
+      FairyTaleFreeItems_72: 5143705234663015693
+      FairyTaleFreeItems_73: 7354910359931888440
+      FairyTaleFreeItems_74: -6213669901433839947
+      FairyTaleFreeItems_75: 6558051785785848697
+      FairyTaleFreeItems_76: 4319605589731303321
+      FairyTaleFreeItems_77: 2063023052435052085
+      FairyTaleFreeItems_78: -6203135809133744979
+      FairyTaleFreeItems_79: 470942097500195357
+      FairyTaleFreeItems_8: 7226605953608596750
+      FairyTaleFreeItems_80: 2567748359246105235
+      FairyTaleFreeItems_81: -5831496305752030744
+      FairyTaleFreeItems_82: 4375540714897008983
+      FairyTaleFreeItems_9: -2425772158863955427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

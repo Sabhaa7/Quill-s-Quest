@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 34391fd6b2dd60b478ab71808816fcd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3987957447750180348
+    second: AtelierMagicae_FlowerGarden_RPGM_0
+  - first:
+      213: -409399515454888490
+    second: AtelierMagicae_FlowerGarden_RPGM_1
+  - first:
+      213: 5114324920148020410
+    second: AtelierMagicae_FlowerGarden_RPGM_2
+  - first:
+      213: 1335691791943102303
+    second: AtelierMagicae_FlowerGarden_RPGM_3
+  - first:
+      213: -5996260898050684192
+    second: AtelierMagicae_FlowerGarden_RPGM_4
+  - first:
+      213: -5017597689456030162
+    second: AtelierMagicae_FlowerGarden_RPGM_5
+  - first:
+      213: 4687191356175934268
+    second: AtelierMagicae_FlowerGarden_RPGM_6
+  - first:
+      213: -1622562349265135344
+    second: AtelierMagicae_FlowerGarden_RPGM_7
+  - first:
+      213: -4869016415535792016
+    second: AtelierMagicae_FlowerGarden_RPGM_8
+  - first:
+      213: -7385223291822785667
+    second: AtelierMagicae_FlowerGarden_RPGM_9
+  - first:
+      213: -4263327402879494643
+    second: AtelierMagicae_FlowerGarden_RPGM_10
+  - first:
+      213: -1960872394507249350
+    second: AtelierMagicae_FlowerGarden_RPGM_11
+  - first:
+      213: -5579603174125187744
+    second: AtelierMagicae_FlowerGarden_RPGM_12
+  - first:
+      213: -233415364960680517
+    second: AtelierMagicae_FlowerGarden_RPGM_13
+  - first:
+      213: -1322012136674734253
+    second: AtelierMagicae_FlowerGarden_RPGM_14
+  - first:
+      213: -6269891110834526802
+    second: AtelierMagicae_FlowerGarden_RPGM_15
+  - first:
+      213: -2108015825377545672
+    second: AtelierMagicae_FlowerGarden_RPGM_16
+  - first:
+      213: 7435793200621002577
+    second: AtelierMagicae_FlowerGarden_RPGM_17
+  - first:
+      213: -5484519265352788514
+    second: AtelierMagicae_FlowerGarden_RPGM_18
+  - first:
+      213: -2289117009455638673
+    second: AtelierMagicae_FlowerGarden_RPGM_19
+  - first:
+      213: -5875942496041343871
+    second: AtelierMagicae_FlowerGarden_RPGM_20
+  - first:
+      213: -3604277419664568326
+    second: AtelierMagicae_FlowerGarden_RPGM_21
+  - first:
+      213: 1009514269374112794
+    second: AtelierMagicae_FlowerGarden_RPGM_22
+  - first:
+      213: 4657547513548116991
+    second: AtelierMagicae_FlowerGarden_RPGM_23
+  - first:
+      213: -6935568957018640752
+    second: AtelierMagicae_FlowerGarden_RPGM_24
+  - first:
+      213: -4409378572480316542
+    second: AtelierMagicae_FlowerGarden_RPGM_25
+  - first:
+      213: -872458149840328759
+    second: AtelierMagicae_FlowerGarden_RPGM_26
+  - first:
+      213: -4313949988062739608
+    second: AtelierMagicae_FlowerGarden_RPGM_27
+  - first:
+      213: 8268700734149565948
+    second: AtelierMagicae_FlowerGarden_RPGM_28
+  - first:
+      213: -5743812200221385516
+    second: AtelierMagicae_FlowerGarden_RPGM_29
+  - first:
+      213: -8283218547036863885
+    second: AtelierMagicae_FlowerGarden_RPGM_30
+  - first:
+      213: 6060239186448055364
+    second: AtelierMagicae_FlowerGarden_RPGM_31
+  - first:
+      213: 124877769838616561
+    second: AtelierMagicae_FlowerGarden_RPGM_32
+  - first:
+      213: 9045251391118446406
+    second: AtelierMagicae_FlowerGarden_RPGM_33
+  - first:
+      213: -4322649990546245122
+    second: AtelierMagicae_FlowerGarden_RPGM_34
+  - first:
+      213: 1814858405785074058
+    second: AtelierMagicae_FlowerGarden_RPGM_35
+  - first:
+      213: -1180135126762183483
+    second: AtelierMagicae_FlowerGarden_RPGM_36
+  - first:
+      213: -72800520905193995
+    second: AtelierMagicae_FlowerGarden_RPGM_37
+  - first:
+      213: 8391546879199606816
+    second: AtelierMagicae_FlowerGarden_RPGM_38
+  - first:
+      213: 4910613630450780660
+    second: AtelierMagicae_FlowerGarden_RPGM_39
+  - first:
+      213: -8474222033201874475
+    second: AtelierMagicae_FlowerGarden_RPGM_40
+  - first:
+      213: -4129822934445376977
+    second: AtelierMagicae_FlowerGarden_RPGM_41
+  - first:
+      213: -5206589978593961584
+    second: AtelierMagicae_FlowerGarden_RPGM_42
+  - first:
+      213: 3845494416301660068
+    second: AtelierMagicae_FlowerGarden_RPGM_43
+  - first:
+      213: -7902204733181343242
+    second: AtelierMagicae_FlowerGarden_RPGM_44
+  - first:
+      213: 643407441172394335
+    second: AtelierMagicae_FlowerGarden_RPGM_45
+  - first:
+      213: 427731487496616610
+    second: AtelierMagicae_FlowerGarden_RPGM_46
+  - first:
+      213: 4634387412240220311
+    second: AtelierMagicae_FlowerGarden_RPGM_47
+  - first:
+      213: 8556150091215534794
+    second: AtelierMagicae_FlowerGarden_RPGM_48
+  - first:
+      213: -5814044077690145122
+    second: AtelierMagicae_FlowerGarden_RPGM_49
+  - first:
+      213: -6768059148654858787
+    second: AtelierMagicae_FlowerGarden_RPGM_50
+  - first:
+      213: 2347192319627763010
+    second: AtelierMagicae_FlowerGarden_RPGM_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd58c6b22185730800000000000000
+      internalID: 3987957447750180348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5281e4f45815af0800000000000000
+      internalID: -409399515454888490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 218
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcc9530b6bb9f640800000000000000
+      internalID: 5114324920148020410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 203
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f6c24ab94598210800000000000000
+      internalID: 1335691791943102303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 192
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacf179b7009cca0800000000000000
+      internalID: -5996260898050684192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 214
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e072e5c79ed5ab0800000000000000
+      internalID: -5017597689456030162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 231
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e52364bf3c0140800000000000000
+      internalID: 4687191356175934268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 236
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d02ad3208b79e0800000000000000
+      internalID: -1622562349265135344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 229
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07081720e57cd6cb0800000000000000
+      internalID: -4869016415535792016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 253
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b36ff6b8a628990800000000000000
+      internalID: -7385223291822785667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_10
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 255
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06dd2ea05e95d4c0800000000000000
+      internalID: -4263327402879494643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 259
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39968342f499c4e0800000000000000
+      internalID: -1960872394507249350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_12
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 152
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d40a2a9744192b0800000000000000
+      internalID: -5579603174125187744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 167
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5866656fdb2ccf0800000000000000
+      internalID: -233415364960680517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 137
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4fbc47f447ade0800000000000000
+      internalID: -1322012136674734253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 142
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea52456014fdcf8a0800000000000000
+      internalID: -6269891110834526802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 158
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832387b86c2deb2e0800000000000000
+      internalID: -2108015825377545672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 201
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f974af48e313760800000000000000
+      internalID: 7435793200621002577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_18
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 186
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55cd059c213e3b0800000000000000
+      internalID: -5484519265352788514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 184
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67971a453c6b30e0800000000000000
+      internalID: -2289117009455638673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_20
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 183
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18465d29e65747ea0800000000000000
+      internalID: -5875942496041343871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 124
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8ee878c80bfdc0800000000000000
+      internalID: -3604277419664568326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a146bbd11e3820e00800000000000000
+      internalID: 1009514269374112794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31a8d69cee2a040800000000000000
+      internalID: 4657547513548116991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 123
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6da1a7c8efbf90800000000000000
+      internalID: -6935568957018640752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 149
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b771bdc8dbec2c0800000000000000
+      internalID: -4409378572480316542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 116
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76f596fe764e3f0800000000000000
+      internalID: -872458149840328759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 122
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86348b69755c124c0800000000000000
+      internalID: -4313949988062739608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 93
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1ffc128350c270800000000000000
+      internalID: 8268700734149565948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 92
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcdf356c31e940b0800000000000000
+      internalID: -5743812200221385516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 112
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c0fa2e981c0d80800000000000000
+      internalID: -8283218547036863885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_31
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 112
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c732a7e6b4a1450800000000000000
+      internalID: 6060239186448055364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd2978ba7abb100800000000000000
+      internalID: 124877769838616561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f09b76730378d70800000000000000
+      internalID: 9045251391118446406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef935296cbcd204c0800000000000000
+      internalID: -4322649990546245122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897372ca1caf2910800000000000000
+      internalID: 1814858405785074058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 50
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42166da515f9fe0800000000000000
+      internalID: -1180135126762183483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 10
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58bfbdf4c5dfef0800000000000000
+      internalID: -72800520905193995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 69
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fab22d63c47470800000000000000
+      internalID: 8391546879199606816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_39
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 63
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9c5305411062440800000000000000
+      internalID: 4910613630450780660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 60
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b63b85f3856a80800000000000000
+      internalID: -8474222033201874475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 66
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3f1ffbebefa6c0800000000000000
+      internalID: -4129822934445376977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 16
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995cca000a7eb7b0800000000000000
+      internalID: -5206589978593961584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7986d1cc0fd5530800000000000000
+      internalID: 3845494416301660068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 37
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9c050b9aab55290800000000000000
+      internalID: -7902204733181343242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 30
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517ce8a8a7dde800800000000000000
+      internalID: 643407441172394335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 9
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa3c7b858b9fe500800000000000000
+      internalID: 427731487496616610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_47
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 8
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790ce122cc6a05040800000000000000
+      internalID: 4634387412240220311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_48
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 11
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf3dfec2d8db670800000000000000
+      internalID: 8556150091215534794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_49
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96b0d827bd505fa0800000000000000
+      internalID: -5814044077690145122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_50
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 6
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd289120160312a0800000000000000
+      internalID: -6768059148654858787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtelierMagicae_FlowerGarden_RPGM_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 12
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d10fe8af6e29020800000000000000
+      internalID: 2347192319627763010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AtelierMagicae_FlowerGarden_RPGM_0: 3987957447750180348
+      AtelierMagicae_FlowerGarden_RPGM_1: -409399515454888490
+      AtelierMagicae_FlowerGarden_RPGM_10: -4263327402879494643
+      AtelierMagicae_FlowerGarden_RPGM_11: -1960872394507249350
+      AtelierMagicae_FlowerGarden_RPGM_12: -5579603174125187744
+      AtelierMagicae_FlowerGarden_RPGM_13: -233415364960680517
+      AtelierMagicae_FlowerGarden_RPGM_14: -1322012136674734253
+      AtelierMagicae_FlowerGarden_RPGM_15: -6269891110834526802
+      AtelierMagicae_FlowerGarden_RPGM_16: -2108015825377545672
+      AtelierMagicae_FlowerGarden_RPGM_17: 7435793200621002577
+      AtelierMagicae_FlowerGarden_RPGM_18: -5484519265352788514
+      AtelierMagicae_FlowerGarden_RPGM_19: -2289117009455638673
+      AtelierMagicae_FlowerGarden_RPGM_2: 5114324920148020410
+      AtelierMagicae_FlowerGarden_RPGM_20: -5875942496041343871
+      AtelierMagicae_FlowerGarden_RPGM_21: -3604277419664568326
+      AtelierMagicae_FlowerGarden_RPGM_22: 1009514269374112794
+      AtelierMagicae_FlowerGarden_RPGM_23: 4657547513548116991
+      AtelierMagicae_FlowerGarden_RPGM_24: -6935568957018640752
+      AtelierMagicae_FlowerGarden_RPGM_25: -4409378572480316542
+      AtelierMagicae_FlowerGarden_RPGM_26: -872458149840328759
+      AtelierMagicae_FlowerGarden_RPGM_27: -4313949988062739608
+      AtelierMagicae_FlowerGarden_RPGM_28: 8268700734149565948
+      AtelierMagicae_FlowerGarden_RPGM_29: -5743812200221385516
+      AtelierMagicae_FlowerGarden_RPGM_3: 1335691791943102303
+      AtelierMagicae_FlowerGarden_RPGM_30: -8283218547036863885
+      AtelierMagicae_FlowerGarden_RPGM_31: 6060239186448055364
+      AtelierMagicae_FlowerGarden_RPGM_32: 124877769838616561
+      AtelierMagicae_FlowerGarden_RPGM_33: 9045251391118446406
+      AtelierMagicae_FlowerGarden_RPGM_34: -4322649990546245122
+      AtelierMagicae_FlowerGarden_RPGM_35: 1814858405785074058
+      AtelierMagicae_FlowerGarden_RPGM_36: -1180135126762183483
+      AtelierMagicae_FlowerGarden_RPGM_37: -72800520905193995
+      AtelierMagicae_FlowerGarden_RPGM_38: 8391546879199606816
+      AtelierMagicae_FlowerGarden_RPGM_39: 4910613630450780660
+      AtelierMagicae_FlowerGarden_RPGM_4: -5996260898050684192
+      AtelierMagicae_FlowerGarden_RPGM_40: -8474222033201874475
+      AtelierMagicae_FlowerGarden_RPGM_41: -4129822934445376977
+      AtelierMagicae_FlowerGarden_RPGM_42: -5206589978593961584
+      AtelierMagicae_FlowerGarden_RPGM_43: 3845494416301660068
+      AtelierMagicae_FlowerGarden_RPGM_44: -7902204733181343242
+      AtelierMagicae_FlowerGarden_RPGM_45: 643407441172394335
+      AtelierMagicae_FlowerGarden_RPGM_46: 427731487496616610
+      AtelierMagicae_FlowerGarden_RPGM_47: 4634387412240220311
+      AtelierMagicae_FlowerGarden_RPGM_48: 8556150091215534794
+      AtelierMagicae_FlowerGarden_RPGM_49: -5814044077690145122
+      AtelierMagicae_FlowerGarden_RPGM_5: -5017597689456030162
+      AtelierMagicae_FlowerGarden_RPGM_50: -6768059148654858787
+      AtelierMagicae_FlowerGarden_RPGM_51: 2347192319627763010
+      AtelierMagicae_FlowerGarden_RPGM_6: 4687191356175934268
+      AtelierMagicae_FlowerGarden_RPGM_7: -1622562349265135344
+      AtelierMagicae_FlowerGarden_RPGM_8: -4869016415535792016
+      AtelierMagicae_FlowerGarden_RPGM_9: -7385223291822785667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
